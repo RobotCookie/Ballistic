@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
 <channel>
+<title>Ballistic RSS Feed</title>
+<link>//www.ballistic.ga/</link>
+<description>Updates On The Robot</description>
 
 <article>
 <h2>We Have A Sponsership</h2>
