@@ -1,0 +1,40 @@
+h1 {
+	color: #990000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	padding-top: 15px;
+}
+p {
+	font-size: 14px;
+	color: #003366;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #990000;
+	margin: 0px;
+	padding: 0px;
+}
+.monitor {
+	width: 450px;
+	padding: 25px;
+	background-color: #E1E1E1;
+	border: 2px double #AB0000;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+.button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.tickbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-bottom: 1px;
+}
+.topparagraph {
+	font-size: 13px;
+}
